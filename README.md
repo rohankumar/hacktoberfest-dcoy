@@ -3,10 +3,10 @@ A repo for some hacktoberfest fun! Here's the link for Hacktoberfest information
 
 If you would like to contribute, please add a "Hello world" file in the language of your choice to this repo by creating a branch with your language choice and username.  Here's an example: `git checkout -b ruby-obsidianspork`.  Finally, add your name to the list below with your @ GitHub username!
 
-#### NOTE: if there is already a file with your language of choice, appead your filename with `-username` and this will prevent any merge conflicts.
+#### NOTE: if there is already a file with your language of choice, append your filename with `-username` and this will prevent any merge conflicts.
 
 ### List of Contributors
-
+* Tom Davis (@Kat35601)
 * I. Gracia (@igcigc)
 * Geza Fischer (@gezafisch)
 * Justin Eldracher (@justineldracher)
@@ -16,6 +16,7 @@ If you would like to contribute, please add a "Hello world" file in the language
 * Chashmeet Singh (@chashmeetsingh)
 * Nayan Gupta (@nayangupta824)
 * Michael Hoogkamer (@mhoogkamer)
+* Carlyn Marshall (@carmarshall)
 * Roger Creasy (@rogercreasy)
 * Manuel Medina (@manuelmdn)
 * Sam Smith (@yoyosamo)
@@ -45,3 +46,17 @@ If you would like to contribute, please add a "Hello world" file in the language
 * Daniel Perez (@djdany01)
 * Yogesh Singh (@singhyogesh252)
 * Nacho López (@ne3l)
+* cl1ent (@cl1ent)
+* Wilder Pereira (@WilderPereira)
+* eosti (@eosti)
+* Vinicius Luiz (@viniciuslcpereira97)
+* Dwiky Chandra (@dwikychandra21)
+* Michael King (@mtking2)
+* Prashant Hari (@prashant8821)
+* Shankhalika Sarkar (@Shankhalika)
+* xenocidewiki (@xenocidewiki)
+* Logan Green (@lagtag)
+* Emerald-Jayde Henao (@emerald-jayde)
+* Mark Carlson (@electrek)
+* Debabrata Choudhury (@lonewolf38)
+* G POORNA PRUDHVI (@poornagurram)
